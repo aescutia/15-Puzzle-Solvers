@@ -10,7 +10,7 @@ This repository contains four versions of my 15-Puzzle Solver. I made these solv
 
 - The primary purpose of these solvers is to observe how efficient each search algorithm is in terms of time and space. The order starts off with BFS, which takes the most time and space compared to the other solvers. The rest use less time and space, with IDA* being the most efficient solver.
 
-# How to use:
+## How to use:
 - To run the solvers, a Java compiler and Java version 11.02.12 or higher are required. Once installed, navigate to the directory using the terminal and type the following command to create the executable: javac Main.java Node.java Solver.java
 
 - Once the executable is created, you can run the program. When running the program, you will be asked to input the puzzle you would like
