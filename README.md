@@ -4,6 +4,8 @@ This repository contains four versions of my 15-Puzzle Solver. I made these solv
 ## About The Project:
 The  purpose of these solvers is to observe how efficient each search algorithm is in terms of time and space. The order starts off with the BFS solver, which takes the most time and space compared to the others. The rest use less time and space, with the IDA* solver being the most efficient. All of the solvers were written using Java version "11.0.12." Main.java contains the main function where the user is asked to enter a puzzle to solve, Node.java contains the class definition for creating nodes within the project, and Solver.java contains the class definition and methods used to solve the puzzle.
 
+For convenience, I've included a screen recording inside the repository showing the project running on the terminal.
+
 ## How to use:
 - To run the solvers, a Java compiler and Java version 11.02.12 or higher are required. Once installed, navigate to the directory using the terminal and type the following command to create the executable: javac Main.java Node.java Solver.java
 
